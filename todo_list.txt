@@ -1,0 +1,4 @@
+() Coletar ódio
+() Processar
+() Classificar 200
+() Arrumar TXT com as chaves
