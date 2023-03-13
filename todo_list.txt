@@ -1,4 +1,7 @@
 (X) Coletar ódio
 (X) Processar
-() Classificar 200
+(x) Classificar 200
 (X) Arrumar TXT com as chaves
+
+
+()verificar lexicon problemático
